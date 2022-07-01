@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="matrix">\@matrix</string>
+    <string name="todo">TODO</string>
+    <string name="bout">Hi, I\'m Matrix.\n\nThe app \'Music Player\', which you are using now, is a simple music player.\n\nCaution: Don\'t play songs while on call. \n\n\nSerial no: 15\nDate of creation: 10 March 2022\nContact us: matrixinventions@gmail.com</string>
+    <string name="about">About</string>
+</resources>
